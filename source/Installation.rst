@@ -13,6 +13,7 @@ Software dependencies
    scanpy
    tensorflow==1.15.0
    
+The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
 
 
 Installation
@@ -28,3 +29,5 @@ Downloading STAGATE code from https://github.com/QIFEIDKN/STGATE
 .. code-block:: python
 
    import STAGATE
+   
+   
