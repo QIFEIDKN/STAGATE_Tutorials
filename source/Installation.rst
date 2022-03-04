@@ -22,7 +22,7 @@ Downloading STAGATE code from https://github.com/QIFEIDKN/STGATE
 
 .. code-block:: python
 
-   cd STGATE-main
+   cd STAGATE-main
    python setup.py build
    python setup.py install
 
