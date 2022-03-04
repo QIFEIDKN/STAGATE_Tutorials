@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Installation
+Installation (pyG framework)
 ============
 
 Software dependencies
@@ -11,23 +11,25 @@ Software dependencies
 .. code-block:: python
 
    scanpy
-   tensorflow==1.15.0
+   pytorch
+   pyG
    
 The use of the mclust algorithm requires the rpy2 package and the mclust package. See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
 
+The cell type-aware module has not been supported by STAGATE_pyG yet.
 
 Installation
 ------------
-Downloading STAGATE code from https://github.com/QIFEIDKN/STGATE
+Downloading STAGATE_pyG code from https://github.com/QIFEIDKN/STGATE_pyG
 
 .. code-block:: python
 
-   cd STGATE-main
+   cd STAGATE_pyG-main
    python setup.py build
    python setup.py install
 
 .. code-block:: python
 
-   import STAGATE
+   import STAGATE_pyG
    
    
