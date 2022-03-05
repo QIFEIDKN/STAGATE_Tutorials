@@ -17,6 +17,7 @@ STAGATE – deciphering spatial domains from spatially resolved transcriptomics
    T4_Stereo
    T5_3D
    T6_Denoising
+   T7_pyG
 
 .. image:: ../Images/StaGATE_Fig1.png
    :width: 600
