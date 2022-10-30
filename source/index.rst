@@ -20,6 +20,8 @@ STAGATE – deciphering spatial domains from spatially resolved transcriptomics
    T7_pyG
    T8_Batch
    T9_STARmap
+   AT1
+   AT2
 
 .. image:: ../Images/StaGATE_Fig1.png
    :width: 600
