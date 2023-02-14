@@ -18,7 +18,7 @@ The use of the mclust algorithm requires the rpy2 package and the mclust package
 
 Installation
 ------------
-Downloading STAGATE code from https://github.com/QIFEIDKN/STGATE
+Downloading STAGATE code from https://github.com/QIFEIDKN/STAGATE
 
 .. code-block:: python
 
