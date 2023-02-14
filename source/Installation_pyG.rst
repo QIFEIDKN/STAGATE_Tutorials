@@ -20,7 +20,7 @@ The cell type-aware module has not been supported by STAGATE_pyG yet.
 
 Installation
 ------------
-Downloading STAGATE_pyG code from https://github.com/QIFEIDKN/STGATE_pyG
+Downloading STAGATE_pyG code from https://github.com/QIFEIDKN/STAGATE_pyG
 
 .. code-block:: python
 
